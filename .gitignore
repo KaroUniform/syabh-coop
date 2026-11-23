@@ -1,0 +1,11 @@
+# Game files and decompiled code are never committed: they belong to Big Robot.
+game/
+decomp/
+dumps/
+# Build output, test copies of the game, downloaded tools
+build/
+run/
+/dist/
+tools/monomod/
+tools/bin/
+.DS_Store
